@@ -49,4 +49,4 @@ data warehouses, analytical pipelines and dashboards.
 
 
 ### 📫 Contacts
-[LinkedIn](https://www.linkedin.com/in/ranieririccardo) · [riky9810@gmail.com]
+[LinkedIn/ranieririccardo](https://www.linkedin.com/in/ranieririccardo) · [riky9810@gmail.com]
