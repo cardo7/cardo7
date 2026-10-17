@@ -16,10 +16,5 @@ data warehouses, analytical pipelines and dashboards.
 Python (pandas, scikit-learn, matplotlib) · SQL / SQL Server · SSIS · SSAS & MDX ·
 Power BI · Git · R (basics)
 
-### 📂 Featured project
-**[Decision Support System for a Music Streaming Platform](https://github.com/cardo7/dss-music-streaming)**
-End-to-end BI project: Python ETL, SQL Server data warehouse, SSIS analytical queries,
-OLAP cube with MDX and Power BI dashboards.
-
 ### 📫 Contacts
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [your.email@example.com]
+[LinkedIn](https://www.linkedin.com/in/ranieririccardo) · [riky9810@gmail.com]
