@@ -6,6 +6,22 @@ with a BSc in **Economics** from the University of Ferrara.
 I like turning raw data into decisions: from cleaning and modelling data to building
 data warehouses, analytical pipelines and dashboards.
 
+## 👾 My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cardo7/cardo7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cardo7/cardo7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cardo7/cardo7/output/pacman-contribution-graph.svg">
+</picture>
+
+## 😄 Random dev joke
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=default&hideBorder">
+  <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder">
+</picture>
+
 ### 🔭 What I'm into
 - **Data mining & machine learning** – clustering, classification, pattern discovery
 - **Business Intelligence** – data warehousing, ETL, OLAP and dashboards
